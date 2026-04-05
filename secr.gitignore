@@ -1,0 +1,11 @@
+# Maven
+target/
+
+# VS Code
+.vscode/
+
+# Environment files
+.env
+
+# Secrets - never upload these!
+secrets.properties
