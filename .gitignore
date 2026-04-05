@@ -8,4 +8,4 @@ target/
 .env
 
 # Secrets - never upload these!
-secrets.properties
+secretKeys.properties
